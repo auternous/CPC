@@ -13,6 +13,7 @@ namespace Task4
             return a1 * a2 * a3;
         }
     }
+    class COworkers
     {
         public string name1;
         public string name2;
